@@ -1,0 +1,6 @@
+{
+  "name": "Cascata de Lesão Secundária no TCE",
+  "description": "Visualizador interativo da fisiopatologia da lesão cerebral secundária no Traumatismo Cranioencefálico (TCE), pontos de intervenção neurocrítica e dinâmica de perfusão cerebral.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
